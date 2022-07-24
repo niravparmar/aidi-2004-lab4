@@ -33,7 +33,7 @@ python app.py
 ## Deployment
 
 Currently the project is deployed on heroku.
-The app can be accessed [here](https://nirav.herokuapp.com/)
+The app can be accessed [here](https://fish-species-100855270.herokuapp.com/)
 
 ## Files
 
